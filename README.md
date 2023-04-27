@@ -31,4 +31,23 @@ INDICE
 
 2.- Daniel M6-04 (archivo dedicado a la programacion funcional)
 
+# DIA 3
+
+En los siguientes documentos encontraremos informacion referente a Python y Spark
+
+1.-Daniel M6-05 (introduccion mundo Spark)
+    -Importar SparkContext y SparkSession.
+       -Instalar e importar entorno Spark.
+   
+
+2.-Daniel M6-06 (RDD)
+    -Crear RDD
+    -Cargar CSV
+
+3.-Daniel M6-07
+    -
+    -
+    
+
+
 
