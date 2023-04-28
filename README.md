@@ -47,6 +47,24 @@ En los siguientes documentos encontraremos informacion referente a Python y Spar
 3.-Daniel M6-07
     -Ejercicios Spark 
     
+# DIA 4 
+
+Etapa final del modulo 6.
+
+1.- Daniel M6-08 (Funciones)
+     -Definir funciones
+      -Invocar funciones
+      -Argumentos y parametros
+     -Documentacion
+     -Variables globales
+
+2.- Daniel M6-09 (Pandas)
+     -Ejercicios con pandas
+   
+
+     
+
+    
     
 
 
