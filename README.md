@@ -60,7 +60,11 @@ Etapa final del modulo 6.
 
 2.- Daniel M6-09 (Pandas)
      -Ejercicios con pandas
-   
+
+3.- Copia de M5-09 (Folium)
+     -Generar mapas con Pandas.
+     -Importar librerias
+     -Introduccion a Folium
 
      
 
